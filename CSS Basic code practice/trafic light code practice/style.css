@@ -1,0 +1,37 @@
+.main-div {
+  background-color: black;
+  border-radius: 30px;
+  padding-left: 20px;
+  padding-right: 80px;
+  margin-right: 598px;
+  margin-left: 600px;
+  padding-top: 20px;
+  padding-bottom: 22px;
+}
+.div1 {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  border-radius: 50%;
+  margin-bottom: 20px;
+  margin-top: 10px;
+  margin-left: 5px;
+}
+.div2 {
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+  border-radius: 50%;
+  margin-bottom: 20px;
+  margin-top: 10px;
+  margin-left: 5px;
+}
+.div3 {
+  height: 100px;
+  width: 100px;
+  background-color: green;
+  border-radius: 50%;
+  margin-bottom: 20px;
+  margin-top: 10px;
+  margin-left: 5px;
+}

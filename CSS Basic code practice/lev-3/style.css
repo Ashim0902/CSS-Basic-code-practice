@@ -1,0 +1,30 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+
+nav {
+  background-color: lightslategrey;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #000;
+  font-size: 25px;
+}
+
+nav ul {
+  display: flex;
+  gap: 200px;
+  justify-content: center;
+}
+
+nav li {
+  list-style: none;
+}
+
+nav .logo a {
+  color: orangered;
+  font-size: 50px;
+  text-decoration: none;
+}
